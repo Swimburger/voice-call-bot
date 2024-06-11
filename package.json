@@ -1,0 +1,20 @@
+{
+  "name": "voice-call-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assemblyai": "^4.4.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "openai": "^4.50.0",
+    "twilio": "^5.1.1"
+  }
+}
